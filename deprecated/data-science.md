@@ -1,5 +1,5 @@
-# Data Science - comprehensive
-A curriculum covering Data Science topics relevant to Machine Learning, Bioinformatics, and Artificial Intelligence. Includes necessary background in mathematics and the sciences.
+# Data Science
+##### Data Science topics relevant to Machine Learning, Bioinformatics, and Artificial Intelligence.
 
 Suggestions:
 - Do all courses/books in order
